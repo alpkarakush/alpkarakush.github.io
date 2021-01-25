@@ -1,3 +1,17 @@
 theme: jekyll-theme-minimal
 titel: Welcome to my page!
 description: I post here everything.
+baseurl: ""
+url: "http://khudabek.github.io"
+twitter_username: alpkarakush
+github_username:  khudabek
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
