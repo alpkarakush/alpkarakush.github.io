@@ -1,20 +1,6 @@
-theme: jekyll-theme-tactile
-titel: Welcome to my page!
+theme: jekyll-theme-minimal
+titel: Bekbolot
 description: I post here everything.
-baseurl: ""
 url: "http://khudabek.github.io"
 twitter_username: alpkarakush
 github_username:  khudabek
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-
-highlighter: rouge
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
-plugins:
-  - jekyll-feed
-  
