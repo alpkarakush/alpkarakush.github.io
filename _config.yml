@@ -1,20 +1,22 @@
-theme: jekyll-theme-tactile
-titel: Welcome to my page!
-description: I post here everything.
-baseurl: ""
-url: "http://khudabek.github.io"
-twitter_username: alpkarakush
-github_username:  khudabek
+# Setup
+title:               Bekbolot
+tagline:             'You shall read'
+description:         'A little cave in the internet desert'
+url:                 http://khudabek.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# About/contact
+author:
+  name:              Bekbolot Khudaiberidev
+  url:               https://twitter.com/alpkarakush
+  email:             bekbolot.kudayberdiev@gmail.com
 
-highlighter: rouge
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
+# Gems
 plugins:
-  - jekyll-feed
-  
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
