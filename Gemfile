@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'nokogiri', '= 1.6.8.1'
-gem "jekyll-theme-lanyon", "~> 1.1"
 
 group :jekyll_plugins do
 gem 'github-pages', '>= 93'
