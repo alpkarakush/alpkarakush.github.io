@@ -6,7 +6,7 @@ url:                 http://khudabek.github.io
 baseurl:             '/'
 paginate:            5
 permalink:           pretty
-
+theme: jekyll-theme-lanyon
 
 # About/contact
 author:
