@@ -4,9 +4,11 @@ tagline:             'You shall read'
 description:         'A little cave in the internet desert'
 url:                 http://khudabek.github.io
 baseurl:             '/'
+root:                '/'
 paginate:            5
 permalink:           pretty
-theme: jekyll-theme-lanyon
+remote_theme:        poole/lanyon
+encoding:            UTF-8
 
 # About/contact
 author:
@@ -17,6 +19,12 @@ author:
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-remote-theme
+  - jekyll-compose
+  - font-awesome-sass
+  - travis
+  - jekyll-mentions
+  - github-pages
 
 google_analytics_id: #UA-XXXX-Y
 
