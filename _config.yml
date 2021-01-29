@@ -3,13 +3,10 @@ title:               Bekbolot
 tagline:             'You shall read'
 description:         'A little cave in the internet desert'
 url:                 http://khudabek.github.io
-baseurl:             ''
+baseurl:             '/'
 paginate:            5
 permalink:           pretty
-theme: lan
-
-markdown:   kramdown
-
+theme: jekyll-theme-lanyon
 
 # About/contact
 author:
