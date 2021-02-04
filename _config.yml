@@ -6,7 +6,7 @@ url:                 https://khudabek.github.io
 baseurl:             '/'
 root:                '/'
 paginate:            5
-permalink:           pretty
+permalink:           /:title
 remote_theme:        poole/lanyon
 encoding:            UTF-8
 
