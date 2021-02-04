@@ -6,7 +6,6 @@ title:  "How to set goals?"
 date:   2021-01-29 20:00:00
 ---
 
-# Yearly goals
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It’s always fun to make new year resolutions, imagining yourself having read 100 books, run a marathon or getting that sweet pay rise. But it never quite worked for me. The process of setting those goals was enjoyable, but when it came to waking up in the morning and running, my motivation was long gone. I wised up a little bit and nowadays I try to set reasonable goals based on my previous experience. 
 So today I would like to talk about all the things I learned about goal setting.You probably know about a goal setting framework called S.M.A.R.T. I will give you an advanced version of it, called  S.M.A.R.T.E.R. It’s a set of rules designed to maximize your likelihood of accomplishing goals. 
 It stand for:

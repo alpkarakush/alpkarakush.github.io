@@ -3,7 +3,7 @@ published: true
 layout: post
 comments: true
 title:  "Why bother writing blogs?"
-date:   2021-01-26 20:00:00
+date:   2021-01-25 20:00:00
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During my time in high school I was introduced to a “Socratic method” of distilling knowledge. Personally, I like the russian word for it  “Майевтика” more, which if we translate from greek means (μαιευτική), literally, the art of helping in giving birth. It’s a method of asking questions and filtering through ideas by critical thinking, by doubting every answer and sifting through them. It can be a conversation with yourself or between several individuals. An author explains his thesis and defends criticism from others.

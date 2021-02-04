@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'nokogiri', '= 1.6.8.1'
+gem 'nokogiri', '= 1.11.1'
 
 group :jekyll_plugins do
 gem 'github-pages', '>= 93'
@@ -12,6 +12,7 @@ gem 'github-pages', '>= 93'
 end
 
 group :jekyll_misc_plugins do
+gem "jekyll-remote-theme"
 gem 'jekyll-compose', '>= 0.4.1'
 gem 'font-awesome-sass', '>= 4.6.2'
 gem 'travis', '>= 1.8.2'
