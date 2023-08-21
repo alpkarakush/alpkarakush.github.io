@@ -1,20 +1,27 @@
 source 'https://rubygems.org'
-
-gem 'nokogiri', '= 1.11.1'
-
 group :jekyll_plugins do
-gem 'github-pages', '>= 93'
-# gem 'jekyll', '>= 3.2'
-# gem 'jekyll-paginate', '>= 1.1.0'
-# gem 'jemoji', '>= 0.7.0'
-# gem 'kramdown', '>= 1.12'
-# gem 'rouge', '>= 1.11.1'
+    gem 'classifier-reborn'
+    gem 'jekyll'
+    gem 'jekyll-archives'
+    gem 'jekyll-diagrams'
+    gem 'jekyll-email-protect'
+    gem 'jekyll-feed'
+    gem 'jekyll-get-json'
+    gem 'jekyll-imagemagick'
+    gem 'jekyll-jupyter-notebook'
+    gem 'jekyll-link-attributes'
+    gem 'jekyll-minifier'
+    gem 'jekyll-paginate-v2'
+    gem 'jekyll-scholar'
+    gem 'jekyll-sitemap'
+    gem 'jekyll-toc'
+    gem 'jekyll-twitter-plugin'
+    gem 'jemoji'
+    gem 'mini_racer'
+    gem 'unicode_utils'
+    gem 'webrick'
 end
-
-group :jekyll_misc_plugins do
-gem "jekyll-remote-theme"
-gem 'jekyll-compose', '>= 0.4.1'
-gem 'font-awesome-sass', '>= 4.6.2'
-gem 'travis', '>= 1.8.2'
-gem 'jekyll-mentions', '>= 1.1.3'
+group :other_plugins do
+    gem 'feedjira'
+    gem 'httparty'
 end
