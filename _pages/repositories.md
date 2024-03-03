@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repos/
-title: repos
+title: git
 description: Here are my repos from UNI years and small pet-projects. 
 nav: true
 nav_order: 3
